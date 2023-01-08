@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title> HISTORICAL PLACES IN INDIA </title>
+    <style>
+        
+        body{
+            background-color:  #F1F7B5 ;
+        padding-top:10px ;
+        }
+         
+        #a{grid-area:a1;}
+        #b{grid-area:b1;}
+        #c{grid-area:c1;}
+        #d{grid-area:d1;}
+        #e{grid-area:e1;}
+        #f{grid-area:f1;}
+        
+        .maindiv{
+               display:grid;
+               grid-template-areas:"a1 b1 c1"
+                                  "d1 e1 f1"
+                                ;
+                                padding: 5px;
+                                margin:5px;
+                                border-radius:10px;
+                }
+
+
+
+        header{
+             background-image: linear-gradient( 70deg , #EF5B0C, #FEFCF3, #367E18 );
+       color :brown;
+       font-size:25px;
+       left:0px;
+       top: 0px;
+       position :fixed;
+       width:100%;
+       text-align:center;
+        font-family:fantasy;
+        padding:10px;
+      }
+     footer{
+             background-image: linear-gradient( 70deg , #9EA1D4, #A8D1D1, #FD8A8A  );
+       color :chocolate;
+       font-size:25px;
+       left:0px;
+       bottom: 0px;
+       position :fixed;
+       width:100%;
+       text-align:center;
+        font-family:' serif';
+        border-style: outset;
+        border-color:black;
+         
+      }
+    </style>
+  
+</head>
+<body>
+
+       
+        <header> HISTORICAL PLACES IN INDIA </header><br>
+<br>
+
+   <h2>6 MAJOR  Historical places in INDIA</h2>
+<h4>
+    The bygone era stays entrenched in the society due to these ancient and historical places of India. So if you are a history buff or want a taste of the rich culture of India, head over to explore some of India’s greatest historical monuments of all times! Explore some of the beautiful places and get captivating views of sunsets in India. Take a look at this tailor-made list of all the top and famous historical places in India that covers the entire country:</h4>
+<div align="center">
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/b9STkhzN9qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<div class="maindiv">
+
+    <div id="a"> <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2017/07/Agra1.jpg"  width="250">
+   <i> <h5>TAJ MAHAL</h5></i>
+    </div>
+    <div id="b"> <img src="    https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Agra-Fort-Uttar-Pradesh.jpg"  width="250">
+       <i> <h5>AGRA FORT</h5> </i>
+     </div>
+    <div id="c">    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Red-Fort-Delhi.jpg"  width="250">
+        <i> <h5>RED FORT</h5> </i>
+    </div>
+    <div id="d"><img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Qutub-Minar-Delhi.jpg"  width="250"> 
+        <i> <h5>QUTUB MINAR</h5> </i>
+    </div>
+    <div id="e">  <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Humayun%E2%80%99s-Tomb-Delhi.jpg"  <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Fatehpuri-Sikri-Uttar-Pradesh1.jpg"  width="250"> 
+        <i> <h5>HUMAYUN TOMB</h5> </i>
+    </div>
+    <div id="f"> <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Fatehpuri-Sikri-Uttar-Pradesh1.jpg"  width="250">
+        <i> <h5>FATEHPURI SIKRI</h5> </i>
+    </div>
+
+   </div>
+
+
+
+
+
+
+
+
+<h3>1.TAJ MAHAL </h3>
+    <h4> Discover Red Fort in Delhi which is one of the famous places in India. Meet the boss of Indian historical places. If you consider the top 10 historical places in India, Taj Mahal will always be ranking high in the list. Explore the ultimate epitome of love, the Taj Mahal, whose grandeur remains unmatched in history and today this is one of the weekend getaways from Delhi. This opulent white marble structure was commissioned to be built in 1632 by Shah Jahan for his late wife Mumtaz Mahal. It took around  <em>22 years</em>  to complete this magnificent structure that is<strong> considered one of the most famous historical places in India.</strong> </h4>
+    <div align="center">
+        <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2017/07/Agra1.jpg"  width="450">
+    
+    </div>
+
+
+   <h3>2. Agra Fort, Uttar Pradesh</h3> 
+     <h4>To get a sense of the rich history of the Mughal era, visit the walled palatial Agra Fort, one of the famous historical places in India that is built entirely of red sandstone. Built in 1565 by Akbar, this historical tourist place in India has two ornately designed gates: the Amar Singh Gate and the Delhi Gate. You can only enter through the Amar Singh Gate to uncover an ancient city filled with gateways, courts, passages, palaces and mosques. It is one of the most beautiful places to visit in Agra.</h4>
+     <div align="center">
+        <img src="    https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Agra-Fort-Uttar-Pradesh.jpg"  width="450">
+      
+    </div><br>
+
+
+<h3>3. Red Fort, Delhi</h3>
+
+<h4>One of the historical tourist places in India, the Red Fort was constructed over ten years from 1638 to 1648. This fort was constructed when Shah Jahan shifted the capital from Agra to Delhi and it was then known as the Qila-e-Mubarak. This octagonal fort is one of the most famous historical places in north India and is also the site where the President gives his speech on Independence Day. The Red fort is truly remarkable and one of the best historical places in India</h4>
+<div align="center">
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Red-Fort-Delhi.jpg"  width="450">
+  
+</div><br>
+
+
+<h3>4. Qutub Minar, Delhi</h3>
+<h4>Regarded as the site of the first Muslim kingdom in northern India, the Qutub Minar is definitely one of the most historical sites in India. It is one of the finest examples of Indo-Muslim architecture with its intricate red sandstone storeys. These are dotted with carvings and verses from the Quran and are mostly in Arabic and Nagari. Qutub Minar is one of the famous historical places in India and is said to have got its name from Qutb-ud-din Aibak who was the first Muslim ruler of North India. The first mosque in India Quwwat-ul-Islam Masjid is also located at the foot of the Qutub Minar.</h4>
+<div align="center">
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Qutub-Minar-Delhi.jpg"  width="450">
+  
+</div><br>
+
+
+<h3>5. Humayun’s Tomb, Delhi</h3>
+<h4>A beautiful synthesis of Indian and Persian architecture, Humayun’s Tomb is one of the most famous and important places in India. Humayun’s wife Hamida Banu Begum commissioned the building of this tomb for her husband in the 15th century. Arched alcoves, beautiful domes, elaborate corridors and kiosks – all make this monument a grandeur of Indian architecture. There is also a barber’s tomb at the southwestern side of the main tomb. It is one of the most famous tourist places in Delhi that one should certainly visit.</h4>
+<div align="center">
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Humayun%E2%80%99s-Tomb-Delhi.jpg"  width="450">
+  
+</div><br>
+
+<h3>6. Fatehpuri Sikri, Uttar Pradesh</h3>
+<h4>The royal city of Fatehpur Sikri was once the capital of the Mughal era during Akbar’s reign. This royal city is one of the historical tourist places in India and once had palaces, public buildings, mosques, quarters for the king, the army as well as the servants. Further, the well planned royal city with carved columns and decorated pillars was built between 1571-1573 AD and abandoned due to a shortage of water.</h4>
+<div align="center">
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Fatehpuri-Sikri-Uttar-Pradesh1.jpg"  width="450">
+  
+</div><br>
+
+<div align="center">
+
+<audio src="Jana Gana Mana - Indian National Anthem- [PagalWorld.NL].mp3" controls></audio>
+   
+    <em><h4>NATIONAL ANTHEM</h4></em>
+</div><br><br>  
+
+
+<footer>   Designed and Developed by Adithya D</footer>
+
+
+</body>
